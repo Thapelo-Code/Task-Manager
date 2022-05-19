@@ -1,0 +1,11 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, Yes
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+smith, werksman court, compile a court file , 04 Mar 2022, 20 Mar 2022, No
+James, Piano Master Class, Create a 3 hours Piano Master Class, 05 Mar 2022, 20 Apr 2022, No
+Unisse, Up Size, Up Size the prices on the menu, 05 Mar 2022, 20 Apr 2022, No
+Lerato, Love is Blind, Simply get 7 reasons why love is blind, 05 Mar 2022, 20 May 2022, No
+james smiths, Why is James James, Tell us about James and his happiness, 08 Mar 2022, 20 Mar 2022, No
+admin, Red is Blue, The colours lie , 24 Jun 2022, 23 Nov 2022, Yes
+tom, lebo why, lebo mara, 12 Jan 2022, 20 Apr 2022, No
+thomas, Julia Brooks, Why is she a Brooks, 15 Mar 2022, 21 May 2022, Yes
+Fojie, Fox bites Cats, is this true, 19 Mar 2022, 10 Jan 2022, Yes

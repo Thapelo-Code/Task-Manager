@@ -1,0 +1,10 @@
+admin, adm1n
+tom, tom1234
+lerato, 23rato1
+thomas, 123toma
+john, john45
+james, james32
+Paul, paul87
+Kevin, kevin3
+Thelius, the4
+Fojie, fox4
